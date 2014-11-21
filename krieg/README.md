@@ -1,3 +1,3 @@
 # Krieg
-> In diesem Kapitel wird 
+> In diesem Kapitel wird
 
