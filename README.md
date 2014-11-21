@@ -13,3 +13,5 @@ Das folgende Gedicht hat mich zu diesem Buch inspiriert.
 > - [Wladimir Sergejewitsch Solowjow](http://de.wikipedia.org/wiki/Wladimir_Sergejewitsch_Solowjow).
 
 Vom Russischen ins Deutsche übersetzt von [Swetlana Geier](http://de.wikipedia.org/wiki/Swetlana_Geier). "Die Übersetzung", sagt sie, "ist keine Raupe die von links nach rechts kriecht, sondern die Übersetzung entsteht immer aus dem Ganzen."
+
+Die Geschichte in diesem Buch eine Übersetzung des unerreichten Originals.
