@@ -1,4 +1,4 @@
-# Prolog
+# Prolog (ENTFERNEN!!!)
 
 ## 1 Entdeckung
 > Wir lernen wo sich die Geschichte abspielt
