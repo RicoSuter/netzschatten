@@ -1,4 +1,4 @@
-# Willkommen beim Netzschatten Open Write Project
+# Netzschatten Open Write Project
 
 > Bevor eine Geschichte zu Ende ist kann man die Bedeutung ihres Inhalts nur erahnen und staunen während die Ideen des Autors an einem vorbeifliegen.
 
