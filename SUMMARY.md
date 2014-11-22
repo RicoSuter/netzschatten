@@ -1,6 +1,6 @@
 # Summary
 
-* [Vorwort](README.md)
+* [Vorwort](VORWORT.md)
 * [Sie](sie/README.md)
    * [1](sie/1.md)
    * [2](sie/2.md)
@@ -16,6 +16,7 @@
    * [11](norden/11.md)
    * [12](norden/12.md)
 * [Süden](suden/README.md)
+   * [13](suden/13.md)
+   * [14](suden/14.md)
 * [Io](io/README.md)
 * [Krieg](krieg/README.md)
-

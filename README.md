@@ -1,17 +1,31 @@
-# Vorwort
+# Willkommen beim Netzschatten Open Write Project
 
-Bevor eine Geschichte zu Ende ist kann man die Bedeutung ihres Inhalts nur erahnen und staunen während die Ideen des Autors an einem vorbeifliegen.
+> Bevor eine Geschichte zu Ende ist kann man die Bedeutung ihres Inhalts nur erahnen und staunen während die Ideen des Autors an einem vorbeifliegen.
 
-Das folgende Gedicht hat mich zu diesem Buch inspiriert.
+Mit diesem Gedanken im Hinterkopf habe ich mich entschlossen ein Buch zu schreiben. Eine riesige Aufgabe.
 
-> Lieber Freund, siehst du denn nicht, dass alles das was unser Auge schaut nur Abglanz ist von Ungesehenem.
+**Helft mir, wenn ihr mögt, ich würde mich sehr freuen.**
 
-> Lieber Freund, hörst du denn nicht, dass alles das was unsere Ohren hören, nur ein Widerhall ist, ein enstellter Widerhall von triumphierenden Harmonien.
+## Die Geschichte
 
-> Lieber Freund, spürst du, ahnst du denn nicht, dass es nur eins auf der Erde gibt - das ist das, was ein Herz dem anderen in einem wortlosen Gruss sagen kann.
+Netzschatten ist die Geschichte eines alten Mannes der alles er liebt verlieren muss um es zu retten.
 
-> - [Wladimir Sergejewitsch Solowjow](http://de.wikipedia.org/wiki/Wladimir_Sergejewitsch_Solowjow).
+### Die Charaktere
 
-Vom Russischen ins Deutsche übersetzt von [Swetlana Geier](http://de.wikipedia.org/wiki/Swetlana_Geier). "Die Übersetzung", sagt sie, "ist keine Raupe die von links nach rechts kriecht, sondern die Übersetzung entsteht immer aus dem Ganzen."
+Der alte Mann
 
-Die Geschichte in diesem Buch eine Übersetzung des unerreichten Originals.
+Das kleine Mädchen
+
+Lia
+
+Ardin
+
+Nole
+
+Io
+
+
+### Bitte befolgt folgende Regeln beim editieren:
+
+Erstellt mit [GitBook](http://gitbook.io) und organisiert mit [GitHub](http://github.com) |
+Dieses Buch unterliegt der [Artistic Licence 2.0](http://opensource.org/licenses/Artistic-2.0).
