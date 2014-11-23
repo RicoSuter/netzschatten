@@ -46,7 +46,7 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 
 ---
 
-> Wir folgen Nole, der - für den Leser offensichtlich - versucht seine Agenda vorwärts zu bringen. Ihm rennt ganz klar die Zeit davon.  Er schafft es in dieser grossen privaten Unruhe seine Politische Agenda durchzubringen. Neben Lia sind weitere Personen in der Regierung über Nacht verschwunden. Die Auffälligste ist der Chef der "Inneren Sicherheit". Er wurde Tot in seiner Wohnung aufgefunden. Selbstmord. Seine Familie, ermordet in ihren Zimmern. Nole ist Nr. einer Abteilung die für den Stab der inneren Sicherheit arbeitet. Sein Chef wird als neuer Chef der IS befördert. 
+> Wir folgen Nole, der - für den Leser offensichtlich - versucht seine Agenda vorwärts zu bringen. Ihm rennt ganz klar die Zeit davon.  Er schafft es in dieser grossen privaten Unruhe seine Politische Agenda durchzubringen. Neben Lia sind weitere Personen in der Regierung über Nacht verschwunden. Die Auffälligste ist der Chef der "Inneren Sicherheit". Er wurde Tot in seiner Wohnung aufgefunden. Selbstmord. Seine Familie, ermordet in ihren Zimmern. Nole ist Nr. einer Abteilung die für den Stab der inneren Sicherheit arbeitet. Sein Chef wird als neuer Chef der IS befördert.
 
 ## 16
 > Maja findet Lias Wohnung leer vor. Fängt an sie zu suchen. Sie kann sie nicht finden. Sie meldet sich bei Adrin. Dieser erzählt ihr von gestern Abend.
