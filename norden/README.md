@@ -4,6 +4,9 @@
 * Was geschieht jetzt mit Lia?
 
 ## 7
+
+![Lia](pics/lia.jpg)
+
 Zum ersten Mal nehmen wir den Blickpunkt einer andere Person als dem Alten ein. Wir folgen Lia durch Aldavaran, die Hauptstadt des Nordens, auf dem Weg in die Wohnung ihres Vaters.
 
 Wir lernen Nole und Ardin aus Lias Perspektive kennen.
