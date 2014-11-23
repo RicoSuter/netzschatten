@@ -19,7 +19,7 @@ Wir lernen Nole und Ardin aus Lias Perspektive kennen.
 [Kapitel lesen](norden/7.md)
 
 ## 8
-Lektion (Isolation): Noch nicht definiert
+Lektion (Isolation): Wir lernen über die Isolation zischen Norden und Süden. t
 
 Wir springen zurück zum Alten und dem Mädchen und gehen die Frage an: Wer ist dieses Mädchen?! Der Alte erleidet seine erste Schwächephase. er fällt in diesen tranceartigen Zustand zurück und durchläuft die erste Phase seines Todes: Verleumdung und Isolation.
 
