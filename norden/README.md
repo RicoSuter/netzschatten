@@ -1,5 +1,9 @@
 # Norden
-> Dieser Teil löst die Frage aus dem ersten Teil: Was geschieht mit diesem Mann? Er stirbt. Auf dem Weg in den Tod durchläuft er 5 Phasen, der Leser lernt in jeder eine wichtige Lektion über die Natur der Norder. Die Lektionen entstammen aus den Visionen des Alten und haben somit immer direkt mit der gerade durchlaufenden Ebene (Isolation, Wut, Verhandlung, Depression, AKzeptanz) zu tun. Es bleiben zwei Fragen unbeantwortet:
+> In diesem Teil lernen wird den Norden kennen. Wir lernen:
+* Die Technologie des Nordens 
+* Die Städte des Nordens
+* Die Beziehung des Nordens zum Süden
+> Wir lösen die Frage aus dem ersten Teil: Was geschieht mit diesem Mann? Er stirbt. Auf dem Weg in den Tod durchläuft er 5 Phasen, der Leser lernt in jeder eine wichtige Lektion über die Natur der Norder. Die Lektionen entstammen aus den Visionen des Alten und haben somit immer direkt mit der gerade durchlaufenden Ebene (Isolation, Wut, Verhandlung, Depression, AKzeptanz) zu tun. Es bleiben zwei Fragen unbeantwortet:
 
 * Wohin gehen der Alte und das Mädchen?
 * Was geschieht jetzt mit Lia?
