@@ -11,8 +11,9 @@
 
 ## 7
 
-Wir lernen die drei grössten Städte (ausser Eo) kennen.
-Zum ersten Mal nehmen wir den Blickpunkt einer andere Person als dem Alten ein. Wir folgen Lia durch Aldavaran, die Hauptstadt des Nordens, auf dem Weg in die Wohnung ihres Vaters.
+Zum ersten Mal nehmen wir den Blickpunkt einer andere Per
+
+son als dem Alten ein. Wir folgen Lia durch Aldavaran, die Hauptstadt des Nordens, auf dem Weg in die Wohnung ihres Vaters.
 
 Wir lernen Nole und Ardin aus Lias Perspektive kennen.
 
@@ -20,7 +21,7 @@ Wir lernen Nole und Ardin aus Lias Perspektive kennen.
 [Kapitel lesen](norden/7.md)
 
 ## 8
-Lektion (Isolation): Noch nicht definiert
+Lektion (Isolation): Wir lernen über die Isolation zischen Norden und Süden. t
 
 Wir springen zurück zum Alten und dem Mädchen und gehen die Frage an: Wer ist dieses Mädchen?! Der Alte erleidet seine erste Schwächephase. er fällt in diesen tranceartigen Zustand zurück und durchläuft die erste Phase seines Todes: Verleumdung und Isolation.
 
