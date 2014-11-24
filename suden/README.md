@@ -30,11 +30,11 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 
 ---
 
-> Lia: Lernt in einer der Unterlagen ihres Vaters dass ihre Mutter an einer wissenschaftlichen Mission im Süden teilgenommen hat. Sie war eine Wissenschaftlerin, das wusste sie, aber warum hat sie ihr nie davon erzählt?
+> Lia: Lernt in einer der Unterlagen ihres Vaters dass ihre Mutter an einer wissenschaftlichen Mission teilgenommen hat die ein Tunnel in den Bauen sollte. Der Tunnel wurde nie fertig gestellt. Sie war eine Wissenschaftlerin, das wusste sie, aber warum hat sie ihr nie von dieser Mission erzählt? Lia ruft ihren Bruder Adrin an. Dieser wusste das auch nicht. 
 
 ---
 
-> Nole: Lia ruft ihren Bruder Nole an und fragt ihn danach. Er reagiert unwissend. Nach dem Telefonat ruft er jemanden an. "Wir haben ein Problem".
+> Nole: Lia ruft ihren Bruder Nole an und fragt ihn danach. Er reagiert unwissend. "Weiss Adrin etwas davon?" Nach dem Telefonat ruft er jemanden an. "Wir haben ein Problem".
 
 ## 15
 
@@ -48,7 +48,7 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 
 > Wir folgen Nole, der - für den Leser offensichtlich - versucht seine Agenda vorwärts zu bringen. Ihm rennt ganz klar die Zeit davon.  
 
-## 16
+## 16 
 > Maja findet Lias Wohnung leer vor. Fängt an sie zu suchen. Sie kann sie nicht finden. Sie meldet sich bei Adrin. Dieser erzählt ihr von gestern Abend.
 
 ---
