@@ -1,4 +1,4 @@
-# Summary
+# Inhaltsverzeichnis
 
 * [Vorwort](VORWORT.md)
 * [Sie](sie/README.md)
