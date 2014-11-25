@@ -1,9 +1,8 @@
 # Norden
-> Wir lösen die Frage aus dem ersten Teil: Was geschieht mit diesem Mann? Er stirbt. Auf dem Weg in den Tod durchläuft er 5 Phasen, der Leser lernt in jeder eine wichtige Lektion über die Natur der Norder. Die Lektionen entstammen aus den Visionen des Alten und haben somit immer direkt mit der gerade durchlaufenden Ebene (Isolation, Wut, Verhandlung, Depression, AKzeptanz) zu tun. Es bleiben zwei Fragen unbeantwortet:
-
+> Wir lösen die Frage aus dem ersten Teil: Was geschieht mit diesem Mann? Er stirbt. Auf dem Weg in den Tod durchläuft er 5 Phasen, der Leser lernt in jeder eine wichtige Lektion über die Natur der Norder. Die Lektionen entstammen aus den Visionen des Alten und haben somit immer direkt mit der gerade durchlaufenden Ebene (Isolation, Wut, Verhandlung, Depression, AKzeptanz) zu tun. Es bleiben zwei Fragen unbeantwortet: Warum bringt er sich um? Was ist besonders an Lia?
 
 ## 7
-Zum ersten Mal nehmen wir den Blickpunkt einer andere Person als dem Alten ein. Wir folgen Lia durch Aldavaran, die Hauptstadt des Nordens, auf dem Weg in die Wohnung ihres Vaters.
+Wir folgen Lia durch Aldavaran, die Hauptstadt des Nordens, auf dem Weg in die Wohnung ihres Vaters.
 
 Wir lernen Nole und Ardin (beide in Aelera) aus Lias Perspektive kennen.
 
