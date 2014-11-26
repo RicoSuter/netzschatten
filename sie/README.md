@@ -2,12 +2,12 @@
 > Im Verlauf des ersten Teils lernen wir den alten Mann kennen. Seine Vergangenheit, seine Liebe, sein Herz, seine grosse Angst die mit dem Tod seiner Frau fortan sein Leben bestimmen sollte und lernen schliesslich von dem Moment in dem er sich entscheidet seinem Leben ein Ende zu setzen. Am Ende des Kapitels steht die grosse Frage: "Was geschieht mit diesem wundervollen Mann, wird er noch gerettet?"
 
 ## 1
-> Die erste Szene des Buches. Wir sehen einen alten Mann der sich das Leben nehmen will. 
+> Die erste Szene des Buches. Wir sehen einen alten Mann der sich das Leben nehmen will.
 
 [...]
 
-> Wir lernen den Alten kennen. 
-* Suizidales Gedankenmuster des Alten. (Versunken in zusammenhaltslosen Gedanken. Er denkt sehr genau über seinen Tod / Suizid nach. Er kennt die Konsequenzen aber die scheinen ihm nichts auszumachen.)
+> Wir lernen den Alten kennen.
+* [Suizidales Gedankenmuster](https://github.com/tweakch/netzschatten/wiki/Personen_Ben#suizidales-gedankenmuster) des Alten. 
 
 [...]
 
@@ -31,7 +31,7 @@ Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume
 
 [...]
 
-> Wir springen von Erinnerung zu Erinnerung. immer von hoffnungsvoller Stimmung zu Hoffnungslosigkeit. 
+> Wir springen von Erinnerung zu Erinnerung. immer von hoffnungsvoller Stimmung zu Hoffnungslosigkeit.
 
 [...]
 
@@ -43,12 +43,12 @@ Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume
 [Kapitel lesen](sie/2.md)
 
 ## 3
-> Wir sehen eine Grosstadt, reges treiben. Ein Alarm dringt durch die Luft. Eine entnervte Nachbarin redet mit ihrem Haustier. 
-* Dieses, da taub, interessiert sich mehr für die Guezlis in ihrer Hosentasche. 
+> Wir sehen eine Grosstadt, reges treiben. Ein Alarm dringt durch die Luft. Eine entnervte Nachbarin redet mit ihrem Haustier.
+* Dieses, da taub, interessiert sich mehr für die Guezlis in ihrer Hosentasche.
 
 [...]
 
-> Das kleine Mädchen erschrickt ihn fast zu tode als es den Alten aufweckt. 
+> Das kleine Mädchen erschrickt ihn fast zu tode als es den Alten aufweckt.
 * Wir sehen die Umgebung. Wir sind in einem Park.
 * Der Horizont wird erweitert.
 
@@ -65,7 +65,7 @@ Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume
 [Kapitel lesen](sie/3.md)
 
 ## 4
-> Das Haustier hat sein Guezli bekommen... Eine Frau stürmt ins Treppenhaus. 
+> Das  Kapitel beginnt mit dem Haustier das sein Guezli bekommen hat und es genüsslich frisst... Eine Frau stürmt ins Treppenhaus und stört das Tierchen bei seinem gelage.
 
 [...]
 
@@ -80,19 +80,23 @@ Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume
 [Kapitel lesen](sie/4.md)
 
 ## 5
-> Die Szene beginnt mit einem Alptrajm. Seine Frau stirbt.  Er wacht auf.
+> Das Kapitel beginnt mit einem Alptraum. Seine Frau stirbt.  Er wacht auf.
 
 [...]
 
-> Die kleine ist verschwunden. Wir sehen das Herz des alten Mannes zum ersten Mal nicht in einer dunklen Wolke gehüllt. Beobachten wie er verzweifelt an seiner Situation.
+> Die kleine ist verschwunden. Wir sehen das Herz des alten Mannes zum ersten Mal nicht in einer dunklen Wolke gehüllt. Beobachten wie er an seiner Situation   verzweifelt.
 
 [...]
 
-Wir bereiten den Leser auf die späteren Zeitsprünge vor.
+>Wald Szene
 
 [...]
 
-Die kleine Taucht auf. Wir sehen die Erleichterung im Alten. (Jetzt kann er sterben)
+> Die kleine Taucht auf. Wir sehen die Erleichterung im Alten. Am ende der Szene fragt sie ihn wo seine Tochter ist
+
+[...]
+
+> Wir sehen seine Tochter. das Kapitel endet mit ihr und den Vorbereitungen zur gross angelegten Suche.
 
 [...]
 
@@ -115,6 +119,3 @@ Er muss immer tiefer graben und sich sehr anstrengen um die Fragen der kleinen z
 Vor ihm steht kein Mädchen mehr, sondern eine junge Frau. Wer ist dieses Mädchen?
 
 [Kapitel lesen](sie/6.md)
-
-
-

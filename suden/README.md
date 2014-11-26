@@ -30,11 +30,11 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 
 ---
 
-> Lia: Lernt in einer der Unterlagen ihres Vaters dass ihre Mutter an einer wissenschaftlichen Mission teilgenommen hat die ein Tunnel in den Bauen sollte. Der Tunnel wurde nie fertig gestellt. Sie war eine Wissenschaftlerin, das wusste sie, aber warum hat sie ihr nie von dieser Mission erzählt? Lia ruft ihren Bruder Adrin an. Dieser wusste das auch nicht. 
+> Lia: Lernt in einer der Unterlagen ihres Vaters dass ihre Mutter an einer wissenschaftlichen Mission teilgenommen hat die ein Tunnel in den Bauen sollte. Der Tunnel wurde nie fertig gestellt. Sie war eine Wissenschaftlerin, das wusste sie, aber warum hat sie ihr nie von dieser Mission erzählt? Lia ruft ihren Bruder ardin an. Dieser wusste das auch nicht. 
 
 ---
 
-> Nole: Lia ruft ihren Bruder Nole an und fragt ihn danach. Er reagiert unwissend. "Weiss Adrin etwas davon?" Nach dem Telefonat ruft er jemanden an. "Wir haben ein Problem".
+> Nole: Lia ruft ihren Bruder Nole an und fragt ihn danach. Er reagiert unwissend. "Weiss ardin etwas davon?" Nach dem Telefonat ruft er jemanden an. "Wir haben ein Problem".
 
 ## 15
 
@@ -42,7 +42,7 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 
 ---
 
-> Adrin ruft Nole an. Er glaubt etwas ist nicht in Ordnung mit Lia. Nole tut so als wüsste er von nichts. Beruhigt Adrin.
+> ardin ruft Nole an. Er glaubt etwas ist nicht in Ordnung mit Lia. Nole tut so als wüsste er von nichts. Beruhigt Adrin.
 
 ---
 
@@ -66,7 +66,7 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 ---
 
 > Adrin: Wir haben einen: Ein Süder wurde von einem unbekannten Aufklärungskommando zurückgebracht. Ardin würde zu gern bei der Befragung und Operation dabei sein. Der Chef-Mediker der die Operation vornehmen wird lässt ihn zusehen.  
-* Wir lernen dass gezielt nur die Fotos veröffentlicht wurden die ungenutzte Flächen zeigen der Süden ist voller Leben!! Adrin kann es nicht glauben.
+* Wir lernen dass gezielt nur die Fotos veröffentlicht wurden die ungenutzte Flächen zeigen der Süden ist voller Leben!! ardin kann es nicht glauben.
 
 ## 18
 > Wir lernen von den Invasionsplänen
@@ -78,4 +78,4 @@ Als Nole vom verschwinden seines Vaters erfährt (ja, es ist ein Zeitsprung) ver
 
 ## 19
 > Adrin: Wir haben einen: Ein Süder wurde vom Aufklärungskommando zurückgebracht.
-* Wir lernen dass gezielt nur die Fotos veröffentlicht wurden die ungenutzte Flächen zeigen der Süden ist voller Leben!! Adrin kann es nicht glauben.
+* Wir lernen dass gezielt nur die Fotos veröffentlicht wurden die ungenutzte Flächen zeigen der Süden ist voller Leben!! ardin kann es nicht glauben.
