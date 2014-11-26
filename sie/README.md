@@ -48,9 +48,15 @@
 
 [...]
 
+---
+
 > Das kleine Mädchen erschrickt ihn fast zu tode als es den Alten aufweckt.
 * Wir sehen die Umgebung. Wir sind in einem Park.
 * Der Horizont wird erweitert.
+
+[...]
+
+> Er will nur alleine sein. Resigniert und ignoriert die kleine, was ihr aber nichts auszumachen scheint.
 
 [...]
 
@@ -69,11 +75,21 @@
 
 [...]
 
->Wir lernen das Mädchen kennen. Erfahren die ersten Konzepte der Zivilisation (Kindesstadt). Sie spielen kindliche Spiele. Er geniesst die Anwesenheit der kleinen, würde es aber nie zugeben.
+---
+
+> Die kleine erinnert ihn an seine Tochter.
+* Man merkt das ihm die Gesellschaft des unschuldigen Mädchens gefällt.
 
 [...]
 
->Das Kapitel endet mit einer Beobachtung des Mädchens. Die Spinne hat ihr Netz am genau richtigen Ort gebaut. Das Netz ist voller Käfer. Genau über den Köpfen der beiden. Der Alte schläft ein obwohl er gar nicht mehr will.
+> Wir lernen das Mädchen kennen.
+* Sie spielen kindliche Spiele.
+* Erfahren von der [Kindesstadt](https://github.com/tweakch/netzschatten/wiki/Gaja#kindesstadt).
+* Er geniesst die Anwesenheit der kleinen, würde es aber nie zugeben.  [Verbitterung](https://github.com/tweakch/netzschatten/wiki/Personen_Ben#Verbitterung)
+
+[...]
+
+> Das Kapitel endet mit einer Beobachtung des Mädchens. Die Spinne hat ihr Netz am genau richtigen Ort gebaut. Das Netz ist voller Käfer. Genau über den Köpfen der beiden. Der Alte schläft ein obwohl er gar nicht mehr will.
 
 [...]
 
@@ -92,11 +108,14 @@
 
 [...]
 
-> Die kleine Taucht auf. Wir sehen die Erleichterung im Alten. Am ende der Szene fragt sie ihn wo seine Tochter ist
+> Die kleine Taucht auf. Wir sehen die Erleichterung im Alten. Am Ende der Szene fragt der Alte wie die Kleine eigentlich heisst? "Lia"
+
 
 [...]
 
-> Wir sehen seine Tochter. das Kapitel endet mit ihr und den Vorbereitungen zur gross angelegten Suche.
+---
+
+> Wir sehen seine Tochter. Das Kapitel endet mit ihr und den Vorbereitungen zur gross angelegten Suche.
 
 [...]
 
@@ -104,7 +123,7 @@
 
 ## 6
 
-> Das Kapitel beginnt damit dass der kleinen auffällt seine Armbanduhr in die falsche Richtung dreht. 
+> Das Kapitel beginnt damit dass der kleinen auffällt seine Armbanduhr in die falsche Richtung dreht.
 * Er erklärt ihr die [Geodäsie](https://github.com/tweakch/netzschatten/wiki/Gaja#geodasie)
 
 [...]
@@ -113,14 +132,14 @@
 
 [...]
 
-Sie beginnt Fragen zu stellen die eine 5 Jährige nicht stellen kann. Fragen der Hoffnung, der Selbsterkenntnis und der Zufriedenheit. Sie beginnt die Metapher des alten zu hinterfragen, was ihn zutiefst verwundert. Die kleine zeigt tiefe Einblicke in die Psyche des Alten.
+> Sie beginnt Fragen zu stellen die eine 5 Jährige nicht stellen kann. Fragen der Hoffnung, der Selbsterkenntnis und der Zufriedenheit. Sie beginnt die Metapher des alten zu hinterfragen, was ihn zutiefst verwundert. Die kleine zeigt tiefe Einblicke in die Psyche des Alten.
 
 [...]
 
-Er muss immer tiefer graben und sich sehr anstrengen um die Fragen der kleinen zu umgehen / abzuwehren. Dabei rutscht er in eine Art Vision und beginnt die Waldszene aus Kapitel 5 nochmals zu erleben. Die Vision endet im Körper seiner Tochter und reisst den Alten aus dem tranceähnlichen Zustand.
+> Er muss immer tiefer graben und sich sehr anstrengen um die Fragen der kleinen zu umgehen / abzuwehren. Dabei rutscht er in eine Art Vision und beginnt die Waldszene aus Kapitel 5 nochmals zu erleben. Die Vision endet im Körper seiner Tochter und reisst den Alten aus dem tranceähnlichen Zustand.
 
 [...]
 
-Vor ihm steht kein Mädchen mehr, sondern eine junge Frau. Wer ist dieses Mädchen?
+> Vor ihm steht kein Mädchen mehr, sondern eine junge Frau. Wer ist dieses Mädchen?
 
 [Kapitel lesen](sie/6.md)
