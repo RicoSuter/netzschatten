@@ -7,7 +7,7 @@
 [...]
 
 > Wir lernen den Alten kennen.
-* [Suizidales Gedankenmuster](https://github.com/tweakch/netzschatten/wiki/Personen_Ben#suizidales-gedankenmuster) des Alten. 
+* [Suizidales Gedankenmuster](https://github.com/tweakch/netzschatten/wiki/Personen_Ben#suizidales-gedankenmuster) des Alten.
 
 [...]
 
@@ -23,11 +23,11 @@
 
 ## 2
 
-> Eine Szene aus der Vergangenheit. Er hat eine Frau.
+> Eine Szene aus der Vergangenheit. Er hatte eine Frau.
 
 [...]
 
-Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume. Die Liebe. Die Familie. Die Chance auf ein schönes Leben auf einem Planeten den wir nicht kennen.
+> Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume. Die Liebe. Die Familie. Die Chance auf ein schönes Leben auf einem Planeten den wir nicht kennen.
 
 [...]
 
@@ -104,7 +104,12 @@ Wir tauchen ein in die frühen Jahre des Alten. Seine Studienzeit. Seine Träume
 
 ## 6
 
-Das Kapitel beginnt damit dass der Alte seinen Tod rechtfertigen will. Er erzählt dem kleinen Mädchen die Geschichte der Spinne und ihrem Netz.
+> Das Kapitel beginnt damit dass der kleinen auffällt seine Armbanduhr in die falsche Richtung dreht. 
+* Er erklärt ihr die [Geodäsie](https://github.com/tweakch/netzschatten/wiki/Gaja#geodasie)
+
+[...]
+
+> Er beginnt sinen Tod zu rechtfertigen. Er erzählt dem kleinen Mädchen die Geschichte der Spinne und ihrem Netz.
 
 [...]
 
