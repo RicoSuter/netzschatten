@@ -23,7 +23,7 @@
 
 ## 2
 
-> Eine Szene aus der Vergangenheit. Er hatte eine Frau.
+> Das Kapitel beginnt mit einer Szene aus der Vergangenheit. Er hatte eine Frau.
 
 [...]
 
@@ -36,14 +36,14 @@
 [...]
 
 > Wir sehen wie die Spinne ihr Netz fertigstellt und sich in Lauerstellung begibt während der alte einschläft.
-* ...Was sein Tod bedeutet.
+* ...was sein Tod bedeutet.
 
 [...]
 
 [Kapitel lesen](sie/2.md)
 
 ## 3
-> Wir sehen eine Grosstadt, reges treiben. Ein Alarm dringt durch die Luft. Eine entnervte Nachbarin redet mit ihrem Haustier.
+> Das Kapitel beginnt einer Szene aus einer Grosstadt (Aldavaran). Reges treiben auf den Strassen. Ein Alarm dringt durch die Luft. Eine entnervte Nachbarin redet mit ihrem Haustier.
 * Dieses, da taub, interessiert sich mehr für die Guezlis in ihrer Hosentasche.
 
 [...]
@@ -68,23 +68,22 @@
 
 [...]
 
-[Kapitel lesen](sie/3.md)
-
-## 4
-> Das  Kapitel beginnt mit dem Haustier das sein Guezli bekommen hat und es genüsslich frisst... Eine Frau stürmt ins Treppenhaus und stört das Tierchen bei seinem gelage.
+> Das  Kapitel endet mit dem Haustier das sein Guezli bekommen hat und es genüsslich frisst... Eine Frau stürmt ins Treppenhaus und stört das Tierchen bei seinem gelage.
 
 [...]
 
----
+[Kapitel lesen](sie/3.md)
 
-> Die kleine erinnert ihn an seine Tochter.
+## 4
+
+> Das Kapitel beginnt mit einer Frage des kleinen Mödchens. Die Antwort erinnert den alten an seine Tochter.
 * Man merkt das ihm die Gesellschaft des unschuldigen Mädchens gefällt.
 
 [...]
 
 > Wir lernen das Mädchen kennen.
 * Sie spielen kindliche Spiele.
-* Erfahren von der [Kindesstadt](https://github.com/tweakch/netzschatten/wiki/Gaja#kindesstadt).
+* Wir erfahren von der [Kindesstadt](https://github.com/tweakch/netzschatten/wiki/Gaja#kindesstadt).
 * Er geniesst die Anwesenheit der kleinen, würde es aber nie zugeben.  [Verbitterung](https://github.com/tweakch/netzschatten/wiki/Personen_Ben#Verbitterung)
 
 [...]
@@ -104,7 +103,7 @@
 
 [...]
 
->Wald Szene
+> Wald Szene
 
 [...]
 

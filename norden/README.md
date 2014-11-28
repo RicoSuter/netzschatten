@@ -2,23 +2,45 @@
 > Wir lösen die Frage aus dem ersten Teil: Was geschieht mit diesem Mann? Er stirbt. Auf dem Weg in den Tod durchläuft er 5 Phasen, der Leser lernt in jeder eine wichtige Lektion über die Natur der Norder. Die Lektionen entstammen aus den Visionen des Alten und haben somit immer direkt mit der gerade durchlaufenden Ebene (Isolation, Wut, Verhandlung, Depression, AKzeptanz) zu tun. Es bleiben zwei Fragen unbeantwortet: Warum bringt er sich um? Was ist besonders an Lia?
 
 ## 7
-Wir folgen Lia durch Aldavaran, die Hauptstadt des Nordens, auf dem Weg in die Wohnung ihres Vaters.
+> Das Kapitel beginnt mit Lia vor der Wohnung des alten Mannes.
 
-Wir lernen Nole und Ardin (beide in Aelera) aus Lias Perspektive kennen.
+[...]
+
+> Wir lernen Nole und Ardin (beide in Aelera) aus Lias Perspektive kennen.
+
+[...]
+
+> wir erhalten einen ersten Einblick in die Beziehung zwischen den Kindern und den Eltern.
+
+[...]
+
+> Das Kapitel endet mit einem Hinweis auf den verbleib des Alten. 
 
 
 [Kapitel lesen](norden/7.md)
 
 ## 8
-Lektion (Isolation): Isoliere dich nicht / Lenke dich nicht ab wenn du schwach wirst. Du musst Schwäche zulassen um stark sein zu können.
 
-Wir gehen die Frage an: Wer ist dieses Mädchen?! Der Alte erleidet seine erste Schwächephase. er fällt in diesen tranceartigen Zustand zurück und durchläuft die erste Phase seines Todes: Verleumdung und Isolation.
+> Das Kapitel beginnt dort wo Kapitel 6 aufhörte.
+* Wir gehen die Frage an: Wer ist dieses Mädchen?!
+
+[...] 
+
+> Der Alte erleidet seine erste Schwächephase. er fällt in diesen tranceartigen Zustand zurück und durchläuft die erste Phase seines Todes: Verleumdung und Isolation.
+* Lektion (Isolation): Isoliere dich nicht / Lenke dich nicht ab wenn du schwach wirst. Du musst Schwäche zulassen um stark sein zu können.
+ 
+[...]
 
 ---
 
-Lia spielt, auf der Suche nach ihrem Vater, alle Trümpfe die sie auf der Hand hat. Sie scheint bei jedem in ihrem Viertel einen Gefallen offen zu haben und man merkt schnell: Wenn diese Frau etwas will bekommt sie es auch. Kurz gesagt: Sie ist SEHR direkt.
+> Lia spielt, auf der Suche nach ihrem Vater, alle Trümpfe die sie auf der Hand hat. Sie scheint bei jedem in ihrem Viertel einen Gefallen offen zu haben und man merkt schnell: Wenn diese Frau etwas will bekommt sie es auch. Kurz gesagt: Sie ist SEHR direkt.
 
-Am Ende des Kapitels erfährt Lia von einem "verwirrten Mann" in einem Park in der Geburtstadt ihrer Mutter. Sie macht sich sofort auf den Weg nach Eo.
+[...]
+
+> Das Kapitel endet mit einem Telefonat von Kommissar Xy an Lia. In einem Park in Eo  (der Geburtsstadt seiner Faru / ihrer Mutter) sei ein verwirrter Mann. 
+Sie macht sich sofort auf den Weg nach Eo.
+
+[...]
 
 [Kapitel lesen](norden/8.md)
 
@@ -56,7 +78,7 @@ Der Alte ist an der schwelle zum Tod. Er verliert jeden bezug zur Realität. Es 
 [Kapitel lesen](norden/11.md)
 
 ## 12
-Lektion (Akzeptanz): Akzeptiere was du nicht ändern kannst. Hoffe und kämpfe bis zum Schluss.
+Lektion (Akzeptanz): Akzeptiere die Konsequenzen deines Handelns. Hoffe und kämpfe bis zum Schluss.
 
 Lia kommt zu spät im Park von Eo an. Mediker haben ihren Vater soeben als Tod erklärt, trotzdem versucht sie alles ihn zurück zu holen. Ardin und Nole kommen mit einem weiteren Militär-Luftfahrzeug beim Park an.
 
